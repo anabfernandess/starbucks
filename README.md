@@ -16,3 +16,8 @@
     <img align="right" alt="Bia-pic" height="250" style="border-radius:90px;" src= "https://user-images.githubusercontent.com/107702552/235282692-21cc4271-c349-44a0-bfc2-d850b4ce2c25.png"/>
 <br><h5>O objetivo foi criar um site responsivo, com informações de entrega, opções de delivery e de compras no próprio site.</h5><br/> 
 </div>
+
+
+
+# Link do site:
+<h4>https://anabfernandess.github.io/starbucks/</h4>
