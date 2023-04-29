@@ -13,6 +13,6 @@
   
   <h4>Nesse projeto foi utilizado bastante das linguagens de desenvolvimento HTML e CSS <br>acompanhado da linguagem de programação JavaScript.<br/></h4>
   <img src="https://user-images.githubusercontent.com/107702552/235282619-51ac27c1-c90e-4e79-9acf-538aa5a4a3cc.png"/>
-    <img align="center" alt="Bia-pic" height="350" style="border-radius:90px;" src= "https://user-images.githubusercontent.com/107702552/235282692-21cc4271-c349-44a0-bfc2-d850b4ce2c25.png"/>
+    <img align="right" alt="Bia-pic" height="250" style="border-radius:90px;" src= "https://user-images.githubusercontent.com/107702552/235282692-21cc4271-c349-44a0-bfc2-d850b4ce2c25.png"/>
 <br><h5>O objetivo foi criar um site responsivo, com informações de entrega, opções de delivery e de compras no próprio site.</h5><br/> 
 </div>
